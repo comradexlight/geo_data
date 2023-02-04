@@ -3,3 +3,5 @@ __pycache__/
 tmp/
 *.log
 pyrightconfig.json
+proxy.txt
+
